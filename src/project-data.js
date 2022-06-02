@@ -15,13 +15,13 @@ const ProjectData = {
         title: 'PerasBot',
         github: 'https://github.com/trimclain/perasbot',
         description:
-            'PERAS is a PERsonal ASsistant Bot in <a href="https://telegram.org/" target=_blank>Telegram</a>. The initial idea behind this was to implement my knowledge into one single bot. But generally this bot is mainly for fun.',
+            'PERAS is a PERsonal ASsistant Bot in <a href="https://telegram.org/" target=_blank>Telegram</a>. The initial idea behind this was to implement my knowledge into one single bot. This bot shows some of the features of the bots I made for my friends.',
     },
     wdt: {
         title: 'WDT',
         github: 'https://github.com/trimclain/wdt',
         description:
-            "WDT is a is a Website Deployment Tool using Express, Nginx and SSL with Let's Encrypt. This is my first big project in bash. It was used to host this website on my server.",
+            "WDT is a Website Deployment Tool using Express, Nginx and SSL with Let's Encrypt. This is my biggest project in bash. It was used to host this website on my server.",
     },
     converter: {
         title: 'Simple Converter',
@@ -33,7 +33,7 @@ const ProjectData = {
         title: 'Portfolio',
         github: 'https://github.com/trimclain/portfolio',
         description:
-            'You\'re looking at it! This website was a lot of work, but the credit goes to <a href="https://github.com/ottomated" target=_blank>Ottomated</a>. I used this project as an opportunity to learn CSS animations and more.',
+            'You\'re looking at it! This website was a lot of work. I used this project as an opportunity to learn CSS animations and more. The credit goes to <a href="https://github.com/ottomated" target=_blank>Ottomated</a>.',
     },
     dotfiles: {
         title: 'My Dotfiles',
