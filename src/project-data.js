@@ -24,7 +24,7 @@ const ProjectData = {
             "WDT is a Website Deployment Tool using Express, Nginx and SSL with Let's Encrypt. This is my biggest project in bash. It was used to host this website on my server.",
     },
     converter: {
-        title: 'Simple Converter',
+        title: '<a href="https://simple-converter.xyz" target="_blank">Simple Converter</a>',
         github: 'https://github.com/trimclain/simple-converter',
         description:
             'This is my first HTML/CSS/JS project. I learned some design principles doing it.',
